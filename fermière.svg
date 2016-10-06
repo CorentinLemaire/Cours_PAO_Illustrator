@@ -3723,10 +3723,10 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 294J5lv9VF2PomPmjZv9VHkHbzDT+q/jee3tf5N//Nz/2Q==" transform="matrix(0.12 0 0 0.12 0 0)">
 	</image>
 </g>
-<g id="Noir_x26_Blanc">
-	<g id="Bouche">
+<g id="Noir_x26_Blanc" display="none">
+	<g id="Bouche" display="inline">
 	</g>
-	<g id="Visage">
+	<g id="Visage" display="inline">
 		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="65.8" y1="114.66" x2="64.43" y2="116.07"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M149.14,100.36c-1.42-0.77-2.62-1.55-3.62-2.34L149.14,100.36z"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M146.18,89.35h0.02l2.71-0.17c0.07-0.01,0.15-0.02,0.23-0.02"/>
@@ -3735,20 +3735,20 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M65.8,114.66c-0.73,0.8-1.24,1.29-1.37,1.41
 			c-0.02,0.02-0.03,0.03-0.03,0.03"/>
 	</g>
-	<g id="oeil">
+	<g id="oeil" display="inline">
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M87.65,105.96c0,1.99-1.61,3.6-3.61,3.6c-1.99,0-3.6-1.61-3.6-3.6
 			c0-1.99,1.61-3.6,3.6-3.6C86.04,102.36,87.65,103.97,87.65,105.96z"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M136.1,101.17c0,1.99-1.62,3.6-3.61,3.6s-3.6-1.61-3.6-3.6
 			c0-1.99,1.609-3.61,3.6-3.61S136.1,99.18,136.1,101.17z"/>
 	</g>
-	<g id="Chapeau">
+	<g id="Chapeau" display="inline">
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="119.55,29.73 72.24,41.56 69.57,24.98 115.73,14.98 		"/>
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="166.23,46.15 142.459,51.76 122.41,56.48 122.07,56.57 
 			121.89,56.61 48.23,73.98 72.75,50.59 72.9,51.48 124.9,40.15 124.6,39.26 		"/>
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="124.9,40.15 72.9,51.48 72.75,50.59 71.23,41.81 
 			72.24,41.56 119.55,29.73 121.23,29.31 124.6,39.26 		"/>
 	</g>
-	<g id="Cheveux">
+	<g id="Cheveux" display="inline">
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M114.52,130.98c-0.54,0.13-1.07,0.25-1.59,0.37
 			c-1.65,0.36-3.19,0.64-4.63,0.84c-15.74,2.18-19.811-5.04-25.28-12.96l50.63-7.13C133.65,112.1,135.52,125.86,114.52,130.98z"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M145.52,98.02c-5.53-4.26-5.24-8.29-5.24-8.29l5.9-0.38
@@ -3767,7 +3767,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="159.169,158.35 159.14,158.36 155.62,159.45 		"/>
 		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="136.79,164.92 138.4,164.81 142.43,163.56 		"/>
 	</g>
-	<g id="trident">
+	<g id="trident" display="inline">
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M55.02,97.56c-3.56,5.24-7.94,8.35-12.4,10.13
 			c-0.19,0.08-0.38,0.15-0.57,0.22c-3.16,1.19-6.32,1.72-9.23,1.89c-7.11,0.39-12.67-1.44-12.67-1.44L13.28,68.6l12,34.9
 			c3.52,0.65,6.73,0.55,9.59,0c2.15-0.41,4.11-1.07,5.85-1.86c6.29-2.83,9.8-7.28,9.8-7.28l-6.87-34.13L55.02,97.56z"/>
@@ -3777,7 +3777,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M45.73,119.15l-2.64,0.67l-6.46,1.64l-1.73,0.44l-2.08-12.1
 			c2.91-0.17,6.07-0.7,9.23-1.89c0.19-0.07,0.38-0.14,0.57-0.22L45.73,119.15z"/>
 	</g>
-	<g id="Corps">
+	<g id="Corps" display="inline">
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M126.06,169.79l-24.82,3.771l-0.06-1.39l-0.2-4.82l-1.03-23.92
 			l2.38-0.38c0.26,5.91,4.54,10.6,9.78,10.6c5.41,0,9.79-5,9.79-11.17c0-0.88-0.09-1.73-0.26-2.55l1.97-0.32l2.12,26.061l0.24,3.05
 			L126.06,169.79z"/>
@@ -3804,7 +3804,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 			c0.75-0.29,1.55-0.479,2.38-0.55c1.21-0.11,2.47,0.021,3.71,0.43c0.14,0.051,0.28,0.091,0.41,0.15
 			C149.18,174.09,151.56,178.5,150.25,182.52z"/>
 	</g>
-	<g id="jupe">
+	<g id="jupe" display="inline">
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="101.24,173.56 95.57,174.42 95.5,172.96 95.27,167.74 
 			94.24,144.35 99.95,143.43 100.98,167.35 101.18,172.17 		"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M101.4,177.27h-0.03c-0.6-0.96-1.67-1.59-2.88-1.59
@@ -3831,21 +3831,21 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M145.08,187.42c-1.699,0.529-3.62,0.54-5.489-0.07
 			c-4.54-1.48-7.12-6.04-5.771-10.19c0.72-2.229,2.44-3.88,4.57-4.71L145.08,187.42z"/>
 	</g>
-	<g id="jambes">
+	<g id="jambes" display="inline">
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="139.41,218.98 127.34,222.42 118.709,201.66 118.73,201.66 
 			118.79,201.65 136.28,199.38 		"/>
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="109.35,202.87 104.4,223.23 91.65,223.23 93.49,204.93 
 			93.49,204.92 		"/>
 	</g>
-	<g id="bottes">
+	<g id="bottes" display="inline">
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="131.07,248.73 132.49,246.62 124.48,223.23 127.34,222.42 
 			139.41,218.98 142.04,218.23 142.04,240.73 153.9,246.62 		"/>
 		<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="105.32,223.23 101.4,248.73 79.15,246.62 90.15,239.73 
 			89.65,223.23 		"/>
 	</g>
 </g>
-<g id="Couleur" display="none">
-	<g id="Visage_-_copie" display="inline">
+<g id="Couleur">
+	<g id="Visage_-_copie">
 		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="65.8" y1="114.66" x2="64.43" y2="116.07"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M149.14,100.36c-1.42-0.77-2.62-1.55-3.62-2.34L149.14,100.36z"/>
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M146.18,89.35h0.02l2.71-0.17c0.07-0.01,0.15-0.02,0.23-0.02"/>
@@ -3854,15 +3854,15 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M65.8,114.66c-0.73,0.8-1.24,1.29-1.37,1.41
 			c-0.02,0.02-0.03,0.03-0.03,0.03"/>
 	</g>
-	<g id="Bouche_-_copie" display="inline">
+	<g id="Bouche_-_copie">
 	</g>
-	<g id="oeil_-_copie" display="inline">
+	<g id="oeil_-_copie">
 		<path fill="#3D79BD" stroke="#000000" stroke-miterlimit="10" d="M87.65,105.96c0,1.99-1.61,3.6-3.61,3.6
 			c-1.99,0-3.6-1.61-3.6-3.6c0-1.99,1.61-3.6,3.6-3.6C86.04,102.36,87.65,103.97,87.65,105.96z"/>
 		<path fill="#3D79BD" stroke="#000000" stroke-miterlimit="10" d="M136.1,101.17c0,1.99-1.62,3.6-3.61,3.6s-3.6-1.61-3.6-3.6
 			c0-1.99,1.609-3.61,3.6-3.61S136.1,99.18,136.1,101.17z"/>
 	</g>
-	<g id="Chapeau_-_copie" display="inline">
+	<g id="Chapeau_-_copie">
 		<polygon fill="#DDCB23" stroke="#000000" stroke-miterlimit="10" points="119.55,29.73 72.24,41.56 69.57,24.98 115.73,14.98 		
 			"/>
 		<polygon fill="#DDCB23" stroke="#000000" stroke-miterlimit="10" points="166.23,46.15 142.459,51.76 122.41,56.48 122.07,56.57 
@@ -3870,7 +3870,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<polygon fill="#913A34" stroke="#000000" stroke-miterlimit="10" points="124.9,40.15 72.9,51.48 72.75,50.59 71.23,41.81 
 			72.24,41.56 119.55,29.73 121.23,29.31 124.6,39.26 		"/>
 	</g>
-	<g id="Cheveux_-_copie" display="inline">
+	<g id="Cheveux_-_copie">
 		<path fill="#472E13" stroke="#000000" stroke-miterlimit="10" d="M158.65,158.73c0.17-0.12,0.33-0.24,0.49-0.37
 			c13.21-9.91,0.76-21.38,0.76-21.38c8.5-11.25,6.5-20.5,6.5-20.5l-8.5,4.75l-15.44-69.47l-0.06-0.28l-19.99,5l-0.34,0.09
 			l-0.18,0.04L64.4,70.98v45.12v0.76l-2,1.45c-6.5-2.33-10-1.16-10-1.16c-2.33,15.66,9.17,16.95,9.17,16.95
@@ -3891,7 +3891,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="159.169,158.35 159.14,158.36 155.62,159.45 		"/>
 		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="136.79,164.92 138.4,164.81 142.43,163.56 		"/>
 	</g>
-	<g id="trident_-_copie" display="inline">
+	<g id="trident_-_copie">
 		<path fill="#929293" stroke="#000000" stroke-miterlimit="10" d="M55.02,97.56c-3.56,5.24-7.94,8.35-12.4,10.13
 			c-0.19,0.08-0.38,0.15-0.57,0.22c-3.16,1.19-6.32,1.72-9.23,1.89c-7.11,0.39-12.67-1.44-12.67-1.44L13.28,68.6l12,34.9
 			c3.52,0.65,6.73,0.55,9.59,0c2.15-0.41,4.11-1.07,5.85-1.86c6.29-2.83,9.8-7.28,9.8-7.28l-6.87-34.13L55.02,97.56z"/>
@@ -3901,7 +3901,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 		<path fill="#7B5E1B" stroke="#000000" stroke-miterlimit="10" d="M45.73,119.15l-2.64,0.67l-6.46,1.64l-1.73,0.44l-2.08-12.1
 			c2.91-0.17,6.07-0.7,9.23-1.89c0.19-0.07,0.38-0.14,0.57-0.22L45.73,119.15z"/>
 	</g>
-	<g id="Corps_-_copie" display="inline">
+	<g id="Corps_-_copie">
 		<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M126.06,169.79l-24.82,3.771l-0.06-1.39l-0.2-4.82l-1.03-23.92
 			l2.38-0.38c0.26,5.91,4.54,10.6,9.78,10.6c5.41,0,9.79-5,9.79-11.17c0-0.88-0.09-1.73-0.26-2.55l1.97-0.32l2.12,26.061l0.24,3.05
 			L126.06,169.79z"/>
@@ -3928,7 +3928,7 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 			c0.75-0.29,1.55-0.479,2.38-0.55c1.21-0.11,2.47,0.021,3.71,0.43c0.14,0.051,0.28,0.091,0.41,0.15
 			C149.18,174.09,151.56,178.5,150.25,182.52z"/>
 	</g>
-	<g id="jupe_-_copie" display="inline">
+	<g id="jupe_-_copie">
 		<polygon fill="#1F8952" stroke="#000000" stroke-miterlimit="10" points="101.24,175.892 95.57,176.82 95.5,175.247 
 			95.27,169.622 94.24,144.421 99.95,143.43 100.98,169.202 101.18,174.395 		"/>
 		<path display="none" fill="none" stroke="#000000" stroke-miterlimit="10" d="M101.4,177.27h-0.03c-0.6-0.96-1.67-1.59-2.88-1.59
@@ -3951,13 +3951,13 @@ iNh5fuEhl2/yOPT/AFX3P8llfd+Sc2ldws3yTd7/ACUWb0Ce1wS236ot5g5ge0/1Xt/7Ar6V/wBV
 			c-2.13,0-3.863-1.732-3.863-3.862c0-0.816,0.25-1.575,0.691-2.198c0.702-1.008,1.857-1.665,3.172-1.665
 			c1.37,0,2.583,0.714,3.264,1.801C132.085,173.972,132.3,174.674,132.3,175.433z"/>
 	</g>
-	<g id="jambes_-_copie" display="inline">
+	<g id="jambes_-_copie">
 		<polygon fill="#E0B7A0" stroke="#000000" stroke-miterlimit="10" points="139.41,218.98 127.34,222.42 118.709,201.66 
 			118.73,201.66 118.79,201.65 136.28,199.38 		"/>
 		<polygon fill="#E0B7A0" stroke="#000000" stroke-miterlimit="10" points="109.35,202.87 104.4,223.23 91.65,223.23 93.49,204.93 
 			93.49,204.92 		"/>
 	</g>
-	<g id="bottes_-_copie" display="inline">
+	<g id="bottes_-_copie">
 		<polygon fill="#913A34" stroke="#000000" stroke-miterlimit="10" points="131.07,248.73 132.49,246.62 124.48,223.23 
 			127.34,222.42 139.41,218.98 142.04,218.23 142.04,240.73 153.9,246.62 		"/>
 		<polygon fill="#913A34" stroke="#000000" stroke-miterlimit="10" points="105.32,223.23 101.4,248.73 79.15,246.62 90.15,239.73 
